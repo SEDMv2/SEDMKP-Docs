@@ -6,32 +6,42 @@
 Welcome to SED Machine Kitt Peak's documentation!
 =================================================
 
-THIS is ONLY a DRAFT!!
-======================
-
 SED Machine Kitt Peak is very low resolution (:math:`\frac{\lambda}{\Delta
 \lambda}\sim100`) optical (365 - 1,000 nm) integral field (28"x"28")
 spectrograph and an imager with a 6' x 6' field.  The instrument was 
-designed for rapid classification of supernovae from transient surveys.
+designed for rapid classification of supernovae from transient surveys and
+is based on the original `SEDM`_ on the Palomar 60-inch.
+
+.. _SEDM: http://www.astro.caltech.edu/sedm
+
 To achieve this goal, the instrument was designed to have:
 
 - Low resolution (:math:`R=\frac{\lambda}{\Delta \lambda}\sim100`), sufficient for classification.
 - High "Slit to detector" photon throughput.
 - 0.1 mag precision spectrophotometry.
 
-The hardware project was funded by the HSF with a grant to Caltech.  If you use
-SEDM data please use the following text in your published papers:
+The project is funded by a consortium of private foundations and public
+institutions.  The partners who will share time on SEDM KP are:
+
+- Caltech
+- University of Minnesota
+- JSI, Goddard/University of Maryland
+- Northwestern University
+- Space Telescope Science Institute
+
+If you use SEDM data please use the following text in your published papers:
 
 If you use IFU data please cite: `Rigault, Neill, Walters, et al. 2019, A&A, 627, A115 <https://ui.adsabs.harvard.edu/abs/2019A%26A...627A.115R/abstract>`_.
 
-Many people were involved.  Current members of the team are:
+Many people were involved.  A partial list of current members of the team are:
 
-- Don Neill (Commissioning Scientist, IFU pipeline automation, Caltech)
+- Don Neill (Instrument Scientist, IFU pipeline automation, Caltech)
 - Mickael Rigault (IFU pipeline lead developer, CNRS/IN2P3, France)
-- Reed Riddle (SEDM-KP software/operations)
-- Yashvi Sharma (Caltech grad student)
-- Josiah Purdum (Caltech)
-- Alex Reedy (Caltech)
+- Yashvi Sharma (Science operations, DRP, Caltech)
+- Reed Riddle (SEDM-KP software/operations, Caltech)
+- Josiah Purdum (Operations, Caltech)
+- Alex Reedy (Installation, Caltech)
+- Michael Coughlin (Project Scientist, UMinn)
 
 Here we document the instrument for observers and developers.  Observers
 will want to refer to the Observer's Reference below.
@@ -50,5 +60,6 @@ Contents:
     :maxdepth: 2
 
     Introduction
+    Hardware
 
 Last updated on |version|

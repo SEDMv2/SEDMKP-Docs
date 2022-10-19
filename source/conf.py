@@ -61,7 +61,7 @@ author = u'Don Neill'
 # built documents.
 #
 # The short X.Y version.
-version = '18 October 2022'
+version = '19 October 2022'
 # The full version, including alpha/beta/rc tags.
 release = version
 
