@@ -10,7 +10,7 @@ SED Machine Kitt Peak is very low resolution (:math:`\frac{\lambda}{\Delta
 \lambda}\sim100`) optical (365 - 1,000 nm) integral field (28"x"28")
 spectrograph and an imager with a 6' x 6' field.  The instrument was 
 designed for rapid classification of supernovae from transient surveys and
-is based on the original `SEDM`_ on the Palomar 60-inch.
+is based on the original `SEDM`_ on the Palomar 60-inch telescope.
 
 .. _SEDM: http://www.astro.caltech.edu/sedm
 
@@ -52,7 +52,6 @@ login account is required).
 .. _here: http://minar.caltech.edu/data_access/ifu
 
 
-
 Contents:
 
 .. toctree::
@@ -60,6 +59,9 @@ Contents:
     :maxdepth: 2
 
     Introduction
+    ObsRef
+    Pipeline
+    Timeline
     Hardware
 
 Last updated on |version|
