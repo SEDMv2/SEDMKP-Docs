@@ -53,7 +53,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'SED Machine Kitt Peak'
-copyright = u'2022, Don Neill'
+copyright = u'2023, Don Neill'
 author = u'Don Neill'
 
 # The version info for the project you're documenting, acts as replacement for

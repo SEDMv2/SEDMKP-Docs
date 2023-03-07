@@ -59,6 +59,7 @@ Contents:
     :maxdepth: 2
 
     Introduction
+    Team
     ObsRef
     Pipeline
     Timeline
