@@ -14,8 +14,8 @@ Procedure:
 - open index.html
   - verify changes
 - update repository
-  - git add <changes>
-  - git commit -m "<notes>"
+  - git add `<changes>`
+  - git commit -m `"<notes>"`
   - git push 
 - Notify deployment via email
 
