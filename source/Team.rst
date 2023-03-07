@@ -76,3 +76,5 @@ Science Team
 
 - Brendan King, Graduate Student, University of Minnesota
 
+
+Last updated on |version|

@@ -53,15 +53,15 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'SED Machine Kitt Peak'
-copyright = u'2023, Don Neill'
-author = u'Don Neill'
+copyright = u'2023, SEDM KP Team'
+author = u'SEDM KP Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
 # The short X.Y version.
-version = '19 October 2022'
+version = '07 March 2023'
 # The full version, including alpha/beta/rc tags.
 release = version
 
