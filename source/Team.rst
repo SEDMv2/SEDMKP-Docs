@@ -46,7 +46,7 @@ Zwicky Transient Facility.
 - Benjamin Roulston, Reduction Pipelines, Caltech
 
 .. image:: images/Roulston.jpg
-   :height: 200px
+   :height: 227px
    :width: 200px
 
 - Reed Riddle, Robotic Software Lead, Caltech
