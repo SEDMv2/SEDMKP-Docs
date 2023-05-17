@@ -31,6 +31,15 @@ institutions.  The partners who will share time on SEDM KP are:
 
 If you use SEDM data please use the following text in your published papers:
 
+Based on observations obtained with the Spectral Energy Distribution Machine on
+the Kitt Peak 2.1-m telescope (SEDM-KP). The SEDM-KP team thanks the National
+Science Foundation and the National Optical-Infrared Astronomy Research
+Laboratory for making the Kitt Peak 2.1-m telescope available. SEDM-KP is
+supported by the Heising Simons Foundation under Grant No. 2021-2612, titled
+"The SEDM Kitt Peak Project," and a collaboration including current partners
+Caltech, University of Minnesota, the University of Maryland/NASA-Goddard,
+Northwestern University, and the Space Telescope Science Institute.
+
 If you use IFU data please cite: `Rigault, Neill, Walters, et al. 2019, A&A, 627, A115 <https://ui.adsabs.harvard.edu/abs/2019A%26A...627A.115R/abstract>`_.
 
 Many people were involved.  A partial list of current members of the team are:
@@ -40,7 +49,6 @@ Many people were involved.  A partial list of current members of the team are:
 - Yashvi Sharma (Science operations, DRP, Caltech)
 - Reed Riddle (SEDM-KP software/operations, Caltech)
 - Josiah Purdum (Operations, Caltech)
-- Alex Reedy (Installation, Caltech)
 - Michael Coughlin (Project Scientist, UMinn)
 
 Here we document the instrument for observers and developers.  Observers
