@@ -25,7 +25,7 @@ institutions.  The partners who will share time on SEDM KP are:
 
 - Caltech
 - University of Minnesota
-- JSI, Goddard/University of Maryland
+- University of Maryland
 - Northwestern University
 - Space Telescope Science Institute
 
@@ -37,7 +37,7 @@ Science Foundation and the National Optical-Infrared Astronomy Research
 Laboratory for making the Kitt Peak 2.1-m telescope available. SEDM-KP is
 supported by the Heising Simons Foundation under Grant No. 2021-2612, titled
 "The SEDM Kitt Peak Project," and a collaboration including current partners
-Caltech, University of Minnesota, the University of Maryland/NASA-Goddard,
+Caltech, University of Minnesota, the University of Maryland,
 Northwestern University, and the Space Telescope Science Institute.
 
 If you use IFU data please cite: `Rigault, Neill, Walters, et al. 2019, A&A, 627, A115 <https://ui.adsabs.harvard.edu/abs/2019A%26A...627A.115R/abstract>`_.

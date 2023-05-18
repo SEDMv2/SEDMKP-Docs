@@ -61,7 +61,7 @@ author = u'SEDM KP Team'
 # built documents.
 #
 # The short X.Y version.
-version = '17 May 2023'
+version = '18 May 2023'
 # The full version, including alpha/beta/rc tags.
 release = version
 
